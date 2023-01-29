@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run streamlit_image_labeling/multilabel_image_labeling.py
